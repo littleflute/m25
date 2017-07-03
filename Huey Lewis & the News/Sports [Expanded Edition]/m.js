@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 The Heart of Rock N Roll.mp3";		
+f[2]	= "02 Heart and Soul.mp3";		
+f[3]	= "03 Bad Is Bad.mp3";		
+f[4]	= "04 I Want a New Drug.mp3";		
+f[5]	= "05 Walking on a Thin Line.mp3";		
+f[6]	= "06 Finally Found a Home.mp3";		
+f[7]	= "07 If This Is It.mp3";		
+f[8]	= "08 You Crack Me Up.mp3";		
+f[9]	= "09 Honky Tonk Blues.mp3";		
+f[10]	= "10 The Heart of Rock & Roll [_][-][Session Take].mp3";		
+f[11]	= "11 Walking on a Thin Line [_][-][Session Take].mp3";		
+f[12]	= "12 If This Is It [_][-][Live].mp3";		
+f[13]	= "13 Heart and Soul [_][-][Live].mp3";		
+f[14]	= "14 I Want a New Drug [_][-][Live].mp3";		
