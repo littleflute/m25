@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Salty Dog.mp3";		
+f[2]	= "02 Selfish Man.mp3";		
+f[3]	= "03 The Worst Day Since Yesterday.mp3";		
+f[4]	= "04 Every Dog Has Its Day.mp3";		
+f[5]	= "05 Life in Tenement Square.mp3";		
+f[6]	= "06 The Ol' Beggars Bush.mp3";		
+f[7]	= "07 The Likes of You Again.mp3";		
+f[8]	= "08 Black Friday Rule.mp3";		
+f[9]	= "09 Grace of God Go I.mp3";		
+f[10]	= "10 Devil's Dance Floor.mp3";		
+f[11]	= "11 These Exiled Years.mp3";		
+f[12]	= "12 Sentimental Johnny.mp3";		
+f[13]	= "13 Far Away Boys.mp3";		
