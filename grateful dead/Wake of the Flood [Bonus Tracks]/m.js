@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Mississippi Half-Step Uptown Toodeloo.mp3";		
+f[2]	= "02 Let Me Sing Your Blues Away.mp3";		
+f[3]	= "03 Row Jimmy.mp3";		
+f[4]	= "04 Stella Blue.mp3";		
+f[5]	= "05 Here Comes Sunshine.mp3";		
+f[6]	= "06 Eyes of the World.mp3";		
+f[7]	= "07 Weather Report Suite [Live].mp3";		
+f[8]	= "08 Eyes of the World [-][Live].mp3";		
+f[9]	= "09 Weather Report Suite [-][Studio Acoustic Demo].mp3";		
+f[10]	= "10 China Doll [-][Studio Outtake].mp3";		
