@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Tobacco Island.mp3";		
+f[2]	= "02 Rebels of the Sacred Heart.mp3";		
+f[3]	= "03 Devil's Dance Floor.mp3";		
+f[4]	= "04 If I Ever Leave This World Alive.mp3";		
+f[5]	= "05 Salty Dog.mp3";		
+f[6]	= "06 The Lightning Storm.mp3";		
+f[7]	= "07 What's Left of the Flag.mp3";		
+f[8]	= "08 The Wrong Company.mp3";		
+f[9]	= "09 The Story So Far.mp3";		
+f[10]	= "10 The Seven Deadly Sins.mp3";		
