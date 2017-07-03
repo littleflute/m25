@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Screaming at the Wailing Wall.mp3";		
+f[2]	= "02 The Seven Deadly Sins.mp3";		
+f[3]	= "03 Factory Girls.mp3";		
+f[4]	= "04 To Youth (My Sweet Roisin Dubh).mp3";		
+f[5]	= "05 Whistles the Wind.mp3";		
+f[6]	= "06 The Light of a Fading Star.mp3";		
+f[7]	= "07 Tobacco Island.mp3";		
+f[8]	= "08 The Wrong Company.mp3";		
+f[9]	= "09 Tomorrow Comes a Day Too Soon.mp3";		
+f[10]	= "10 Queen Anne's Revenge.mp3";		
+f[11]	= "11 The Wanderlust.mp3";		
+f[12]	= "12 Within a Mile of Home.mp3";		
+f[13]	= "13 The Spoken Wheel.mp3";		
+f[14]	= "14 With a Wonder and a Wild Desire.mp3";		
+f[15]	= "15 Don't Let Me Die Still Wondering.mp3";		
